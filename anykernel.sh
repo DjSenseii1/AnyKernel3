@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=AMD-Reborn+ by SenseiiX
+kernel.string=AMD-Reborn+ by SenseiiXD
 do.devicecheck=1
 do.modules=0
 do.systemless=1

@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=FusionX by SenseiiX
+kernel.string=REAL-KING KERNEL by SenX(@WazzupSensei911)--Telegram
 do.devicecheck=1
 do.modules=0
 do.systemless=1
